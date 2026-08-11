@@ -230,7 +230,7 @@ Frequently asked Python coding interview questions.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/shivsai1396/Python_Basic_To_Advance_Practice_Questions.git
+git clone https://github.com/cortexshivsai/Python_Basic_To_Advance_Practice_Questions.git
 ```
 
 ### Open the Project
@@ -322,7 +322,7 @@ If this repository helped you,
 
 🚀 Aspiring AI Engineer
 
-GitHub: **https://github.com/shivsai1396**
+GitHub: **https://github.com/cortexshivsai**
 
 ---
 
