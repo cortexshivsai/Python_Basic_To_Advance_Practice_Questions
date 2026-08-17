@@ -1,6 +1,3 @@
-#Remove an element
-l=[1,2,3,4,5,'S','H','I','V']
-l.pop()
-print(l)
-l.pop(7)
-print(l)
+s = {10, 20, 30}
+s.remove(20)
+print(s)
