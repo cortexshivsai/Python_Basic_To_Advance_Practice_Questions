@@ -1,4 +1,3 @@
-#Add an element.
-l=[1,2,3,4,5,'S','H','I','V']
-l.append("SAI")
-print(l)
+s = {10, 20, 30}
+s.add(40)
+print(s)
